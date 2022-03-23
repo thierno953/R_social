@@ -64,6 +64,9 @@ form button {
   cursor: pointer;
   transition: all 0.3s;
 }
+.social-icon a {
+  padding-left: 10px;
+}
 
 .social-icon:hover {
   background: var(--light-blue);

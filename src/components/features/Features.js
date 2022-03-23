@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import "./features.css";
-import { BsFillBookmarkStarFill } from "react-icons/bs";
-import phoneFeatures from "../../assets/phone-features.png";
+import { FiEye } from "react-icons/fi";
+import phoneFeatures from "../../assets/flex-removebg-preview.png";
 import Feature from "./Feature";
 import { FeatureList } from "./data";
 
@@ -18,7 +18,7 @@ const Features = () => {
     <section id="features">
       <div className="container features">
         <div className="title" data-aos="fade-up">
-          <BsFillBookmarkStarFill color="orangered" size={30} />
+          <FiEye color="orangered" size={30} />
           <h2>Core Features</h2>
         </div>
         <div className="features-content">
