@@ -1,8 +1,8 @@
 section#download {
   background: linear-gradient(
     90deg,
-    rgba(45, 165, 255, 1) 45%,
-    rgba(1, 223, 245, 1) 100%
+    rgb(27, 50, 68) 45%,
+    rgb(29, 60, 63) 100%
   );
   text-align: center;
   color: #fff;
