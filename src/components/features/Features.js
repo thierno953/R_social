@@ -22,10 +22,10 @@ const Features = () => {
           <h2>Core Features</h2>
         </div>
         <div className="features-content">
-          <div className="features-left" data-aos="fade-right">
+          <div className="features-left" data-aos="fade-up">
             <img src={phoneFeatures} alt="phone" />
           </div>
-          <div className="features-right" data-aos="fade-left">
+          <div className="features-right" data-aos="fade-up">
             {FeatureList.map((feature) => (
               <Feature
                 key={feature.id}

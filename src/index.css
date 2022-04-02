@@ -3,11 +3,11 @@
 :root {
   --font-family: "Poppins", sans-serif;
   --dark-blue: #0a1930;
-  --light-blue: #1f93ff;
+  --light-blue: #112179;
 
   --color-white: #fff;
   --dark-text: #333;
-  --form-button: #2da5ff;
+  --form-button: #112179;
   --color-grey: #eae6eb;
   --box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
 }

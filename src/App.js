@@ -15,7 +15,7 @@ function App() {
         <Navbar />
         <Header />
       </header>
-      <Features data-aos="fade-up" />
+      <Features />
       <Download />
       <Subscribe />
       <Faq />
